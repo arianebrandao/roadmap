@@ -12,7 +12,7 @@
    - Criar uma lista de itens dentro de uma lista suspensa (dropdown list)
    - Conectar com um arquivo de CSS
    - Criar uma tabela
-   - Adicionar IDs e classes [x]
+   - Adicionar IDs e classes
 - **CSS - Fundamentos**:
    - Cascading Style Sheets (CSS) é uma linguagem usada para descrever a apresentação de um documento escrito em uma linguagem de marcação como HTML ou XML. CSS pode ser usado para estilos de texto de documentos muito básicos — por exemplo, para alterar a cor e o tamanho de títulos e links. Ele pode ser usado para criar um layout — por exemplo, transformar uma única coluna de texto em um layout com uma área de conteúdo principal e uma barra lateral para informações relacionadas. Pode até ser usado para efeitos como animações.
    - Aprender a estrutura visual de uma página, com 'margin' e 'padding'
@@ -28,7 +28,7 @@
    - Aprender box-sizinh
    - Aprender Flexbox
    - Aprender Grid
-- [ ] **JavaScript - Fundamentos**:
+- **JavaScript - Fundamentos**:
    - JavaScript é a linguagem de programação mais popular do mundo e é uma das principais tecnologias da World Wide Web, juntamente com HTML e CSS. Ela possui tipagem dinâmica, orientação a objetos baseada em protótipos e funções de primeira classe. Ela é multi-paradigma e suporta estilos de programação orientados a eventos, funcionais e imperativos.
    - Conhecer os tipos primitivos
    - Declarar variáveis, considerando a diferença entre 'var', 'let' e 'const'
@@ -58,7 +58,7 @@
    - Entender como o Google classifica páginas
    - Conhecer os fatores de rankeamento
    - Fazer Link Building
-- [ ] **Design Responsivo**:
+- **Design Responsivo**:
    - Ajustar suas páginas para o tamanho da tela do usuário
    - Media queries
    - Conhecer o conceito de Mobile first
